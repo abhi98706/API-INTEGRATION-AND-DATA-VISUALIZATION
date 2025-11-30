@@ -25,3 +25,4 @@ Overall, the task covers three key steps:
 
 *OUTPUT*
 
+<img width="1201" height="571" alt="Image" src="https://github.com/user-attachments/assets/7759463d-b92d-4b12-9bd2-5225a1c535a5" />
