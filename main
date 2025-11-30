@@ -27,4 +27,5 @@ plt.title("Temperature Forecast")
 plt.xlabel("Time")
 plt.ylabel("Temperature (°C)")
 plt.tight_layout()
+
 plt.show()
