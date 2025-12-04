@@ -28,6 +28,6 @@ After preparing the data, the final stage is visualization. Visual representatio
 ## 4. Purpose and Importance of the Task
 The entire task demonstrates a complete workflow commonly used in data-driven applications. It shows how real-time data can be fetched from external sources, cleaned, structured, and visualized. This skillset is essential in fields like software development, data analytics, machine learning, IoT, and scientific research. The project also builds an understanding of how backend systems communicate with online services and how visualizations help interpret complex datasets. Overall, the task combines programming, data handling, and analytical thinking, making it a valuable exercise in practical data science and application development.
 
-*OUTPUT*
+## OUTPUT
 
 <img width="1201" height="571" alt="Image" src="https://github.com/user-attachments/assets/7759463d-b92d-4b12-9bd2-5225a1c535a5" />
